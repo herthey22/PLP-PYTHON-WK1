@@ -23,5 +23,5 @@ Enter your location: Oyo, Nigeria
 #output
 """
 # print("Hello " + name + ", you are " + age + " years old and you live in " + location + ".")
-Hello Ade, you are 24 years old and you live in Oyo.
+Hello Ade, you are 24 years old and you live in Oyo, Nigeria.
 """
